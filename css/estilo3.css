@@ -1,0 +1,45 @@
+body{
+background-color: #eee8aa	
+}
+
+.menu {
+	list-style-type: none;
+   text-align: center;
+	margin: auto;
+}
+
+.menu li a{
+	padding: 2px 7px 2px 7px;
+   color: black;
+   background-color: #7FB3D5;
+   border: 1px solid #ccc;
+   text-decoration: none;
+
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: white;
+}
+h1{
+	text-align: center;
+	font-family: 'PT Mono', monospace;
+	}
+h2{
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+
+}
+p{
+	text-align: left;
+	font-family: 'Cutive', serif;
+
+
+	}
+image{
+	padding: 15px;
+}
